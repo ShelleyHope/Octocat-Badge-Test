@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words.
+"Upstream" remote refers to where your repo originated from e.g. if you forked from my_git into your_git then my_git is the upstream remote and this would be used if you wanted to push any of the commits made in your_git back to my_git (via a pull request). Upstream remote is relative to the repo you are in and from my_git - your_git is downstream although the owner of my_git may have no knowledge of your_git.

@@ -1,1 +1,4 @@
-Explain what a branch is, in your own words.
+A branch initially, is a 'copy' of a master repo i.e. at the point of creation it exactly mirrors the master. Once a change is committed to the branch then it will differ from the master. 
+
+A branch may be merged back into the master. "Upstream" commits to the master can be tracked and merged back into the branch.   
+

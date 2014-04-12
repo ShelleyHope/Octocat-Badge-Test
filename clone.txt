@@ -1,1 +1,3 @@
-Explain what git clone does, in your own words.
+Git clone makes a copy of another "git-repo" and creates a directory folder of the same name: git-repo [in the directory from where the command was issued]. The newly created git-repo file is initialised by the addition of a .git file. All files and any branching history of the original cloned repo are also copied to the new cloned repo.
+
+N.B. changes can only be 'pushed' back from the clone to the original repo by approved collaborators.
